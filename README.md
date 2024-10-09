@@ -41,3 +41,6 @@ Esta es una aplicación de consola en Java que permite convertir entre diferente
 ## Dependencias
 
 - [Gson](https://github.com/google/gson): Para la serialización y deserialización de JSON.
+
+## Autor
+Jesus Zavaleta 🇵🇪
